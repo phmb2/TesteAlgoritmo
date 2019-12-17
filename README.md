@@ -1,4 +1,7 @@
-Para compilar e executar o Teste do Algoritmo:
+Teste do Algoritmo
+
+Open terminal and run the following commands:
 
 javac Attendance.java
+
 java Attendance
